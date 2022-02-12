@@ -1,5 +1,4 @@
-void main() {
-
+void main(List<String> arguments) {
   // This is comment single line
 
   /* This is multiple lines 1
@@ -39,6 +38,4 @@ void main() {
   print(sub);
   print(mul);
   print(div);
-
-
 }
